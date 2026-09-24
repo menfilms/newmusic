@@ -1,5 +1,16 @@
+# Dependencies
 node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
 .next/
 dist/
 build/
-*.log
